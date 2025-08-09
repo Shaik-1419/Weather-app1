@@ -4,7 +4,7 @@ A modern weather app that displays real-time weather updates with a beautiful lo
 Built with **HTML**, **CSS**, and **JavaScript**, this app fetches weather data using the OpenWeatherMap API.
 
 ## 🚀 Live Demo
-[Click here to view](https://your-netlify-link.netlify.app)  
+[Click here to view]((https://quiet-mousse-664251.netlify.app/))  
 *(Replace with your actual Netlify URL after deployment)*
 
 ## ✨ Features
