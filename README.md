@@ -1,26 +1,31 @@
 # 🌦 Weather App with Video Background
 
-A modern weather app that displays real-time weather updates with a beautiful looping video background.  
-Built with **HTML**, **CSS**, and **JavaScript**, this app fetches weather data using the OpenWeatherMap API.
+A modern, animated **Weather App** that provides real-time weather updates with a stunning looping video background.  
+Built using **HTML**, **CSS**, and **JavaScript**, powered by the **OpenWeatherMap API**, and hosted on **Netlify**.
 
 ## 🚀 Live Demo
-[Click here to view]([https://quiet-mousse-664251.netlify.app/])  
-*(Replace with your actual Netlify URL after deployment)*
+🔗 **[View Live App](https://quiet-mousse-664251.netlify.app/)**
+
+---
 
 ## ✨ Features
-- 📍 **Search by City** – Get weather updates for any location.
-- 🎥 **Full-Screen Video Background** – Loops seamlessly for a modern look.
-- 🌡 **Current Weather Information** – Temperature, condition, humidity, wind speed.
-- 📅 **3-Day Forecast** – Shows upcoming weather details.
-- 📱 **Responsive Design** – Works on desktop and mobile.
-- 🎨 **Animated & Stylish UI** – Smooth transitions and hover effects.
+- 📍 **Search by City** – Instantly get weather details for any location.
+- 🎥 **Full-Screen Video Background** – Loops smoothly for a stylish modern UI.
+- 🌡 **Current Weather Information** – Shows temperature, condition, humidity, wind speed.
+- 📅 **3-Day Forecast** – Displays upcoming weather predictions.
+- 📱 **Fully Responsive** – Works on desktop, tablet, and mobile.
+- 🎨 **Smooth Animations** – Hover effects, fade-ins, and interactive UI elements.
+
+---
 
 ## 🛠 Tech Stack
-- **HTML5** – Structure
-- **CSS3** – Styling, animations, and responsiveness
+- **HTML5** – Markup & structure
+- **CSS3** – Styling, animations, responsiveness
 - **JavaScript (Vanilla)** – API integration and DOM updates
 - **OpenWeatherMap API** – Weather data source
 - **Netlify** – Hosting
+
+---
 
 ## 📂 Project Structure
 weather-app/
