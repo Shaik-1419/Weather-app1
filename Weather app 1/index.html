@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+    <script defer src="script.js"></script>
+</head>
+<body>
+    <!-- Video Background -->
+    <video autoplay muted loop id="background-video">
+        <source src="assets/whether.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+
+    <div class="container">
+        <h1>Weather Find</h1>
+
+        <!-- Search Form -->
+        <div class="search-container">
+            <input type="text" id="city-input" placeholder="Enter city name">
+            <button id="search-btn">Search</button>
+        </div>
+
+        <!-- Weather Info Display -->
+        <div id="weather-info" class="weather-info">
+            <h2 id="city-name"></h2>
+            <p id="temperature"></p>
+            <p id="humidity"></p>
+            <p id="wind-speed"></p>
+        </div>
+
+        <!-- Error Message -->
+        <p id="error-message" class="error"></p>
+
+        <!-- 5-day Forecast -->
+        <div id="forecast-container" class="forecast-container">
+            <h3>5-day Forecast</h3>
+            <div id="forecast" class="forecast"></div>
+        </div>
+    </div>
+</body>
+</html>
